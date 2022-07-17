@@ -1,0 +1,10 @@
+1) MoE, National Institute Ranking Framework (NIRF) - png images of all the colleges
+
+2)
+(p-part)
+p1,p2,p3,p4,p5 - folder to divide the images in a set of 20
+p1.txt,p2.txt.. - converted text file of the respective p folder
+
+3)bulk image downloder- screen shot of bulk image downloder
+
+4) txt file of 100 colleges - final merge file of p1.txt,p2.txt ... p5.txt
